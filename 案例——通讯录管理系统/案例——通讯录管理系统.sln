@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "案例——通讯录管理系统", "案例——通讯录管理系统\案例——通讯录管理系统.vcxproj", "{534A6D9B-ABA0-4A4F-86B0-2D3E1B06294F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534A6D9B-ABA0-4A4F-86B0-2D3E1B06294F}.Debug|x64.ActiveCfg = Debug|x64
+		{534A6D9B-ABA0-4A4F-86B0-2D3E1B06294F}.Debug|x64.Build.0 = Debug|x64
+		{534A6D9B-ABA0-4A4F-86B0-2D3E1B06294F}.Debug|x86.ActiveCfg = Debug|Win32
+		{534A6D9B-ABA0-4A4F-86B0-2D3E1B06294F}.Debug|x86.Build.0 = Debug|Win32
+		{534A6D9B-ABA0-4A4F-86B0-2D3E1B06294F}.Release|x64.ActiveCfg = Release|x64
+		{534A6D9B-ABA0-4A4F-86B0-2D3E1B06294F}.Release|x64.Build.0 = Release|x64
+		{534A6D9B-ABA0-4A4F-86B0-2D3E1B06294F}.Release|x86.ActiveCfg = Release|Win32
+		{534A6D9B-ABA0-4A4F-86B0-2D3E1B06294F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5679602-C77E-4973-AED2-C2C306309419}
+	EndGlobalSection
+EndGlobal
